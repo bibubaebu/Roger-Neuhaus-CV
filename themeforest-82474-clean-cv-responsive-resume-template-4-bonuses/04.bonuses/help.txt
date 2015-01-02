@@ -1,0 +1,40 @@
+
+Resume / CV Pack
+
+
+Description
+===========
+
+High Quality, print ready (CMYK) Resume / CV Pack that includes: Resume template, Letter, Envelope and a Business card.
+
+
+Template Size
+=============
+
+
+Sizes are: 
+
+- Resume template: 2 A4 pages 
+- Letter: A4 
+- Envelope: No. 10 standard
+- Business card: 9 * 5 cm.
+
+
+Fonts Used
+==========
+
+The fonts used in the templates include:
+	
+	- Open Sans: http://www.google.com/fonts#UsePlace:use/Collection:Open+Sans
+
+Usage
+=====
+
+Open the PSD files with Adobe Photoshop CS6.
+
+The files are in CMYK mode and 300dpi format.
+
+The files are divided into logical sections and you just have to insert your text / duplicate sections if needed.
+
+For every picture from the theme there is a shape (named image bg shape) and you just have to make a clipping mask
+ between the picture and the shape.
